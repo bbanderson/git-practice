@@ -1,0 +1,3 @@
+This is a server based file.
+
+Maintain using PHP anyway.
